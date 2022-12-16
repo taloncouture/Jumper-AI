@@ -1,3 +1,5 @@
+#Much of the NEAT code is from Tech With Tim's Flappy Bird AI at https://github.com/techwithtim/NEAT-Flappy-Bird, but is modified for this game.
+
 import pygame
 import random
 import os
